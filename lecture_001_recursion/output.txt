@@ -1,0 +1,6 @@
+15
+6
+100
+6
+32
+found at 5th postion
